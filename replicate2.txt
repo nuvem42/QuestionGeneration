@@ -13,3 +13,7 @@ article
     how Testportal is using it - company example
 
 post it on github
+
+
+lembrar: precisa ativar o http server do python
+
