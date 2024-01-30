@@ -1,0 +1,15 @@
+model: valhalla/t5-small-e2e-qg - https://huggingface.co/valhalla/t5-small-e2e-qg/tree/main 
+    generating questions with transformers - https://github.com/patil-suraj/question_generation/blob/master/README.md
+    hugging face transformers - https://huggingface.co/docs/transformers/main/en/index 
+    end to end question generation - https://arxiv.org/pdf/2005.01107v1.pdf
+    setup.py - what's this?
+    lib to install with pip, after creating enviroment: sentencepiece, protobuf, torch, transformers, flask
+
+article
+    what is transformers, what is T5, what is pre training
+    E2E qg
+    why is this useful
+    video explaning question generation, why I had this idea and demonstrating some examples
+    how Testportal is using it - company example
+
+post it on github
